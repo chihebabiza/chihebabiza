@@ -32,5 +32,5 @@
         <li><a href="mailto:chihababiza9@gmail.com"><img src="https://img.shields.io/badge/Email-%23EA4335.svg?&style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a></li>
         <li> <a href="https://www.instagram.com/chiheb_abiza_/"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a></li>
       </ul>
-      <h5>Thank you for visiting my profile!</h5>
+      <h4>Thank you for visiting my profile!</h4>
 
