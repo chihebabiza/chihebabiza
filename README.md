@@ -1,6 +1,6 @@
 <h1>Hi, I'm Chiheb! 👋</h1>
 
-<p>I'm an Algerian front-end developer and content creator.</p>
+<p>I'm an Algerian web developer and content creator.</p>
 
 <h2>About Me</h2>
 <ul>
