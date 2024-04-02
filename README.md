@@ -4,8 +4,8 @@
 
 <h2>About Me</h2>
 <ul>
-    <li>🔭 I’m currently working on improving my front-end development skills.</li>
-    <li>🌱 I’m currently learning advanced JavaScript techniques.</li>
+    <li>🔭 I’m currently working on improving my web development skills.</li>
+    <li>🌱 I’m currently learning advanced JavaScript and PHP techniques.</li>
     <li>💬 Ask me about HTML, CSS, and JavaScript.</li>
     <li>📫 Don't miss out on my content ! Follow me on Instagram:
     <p><a href="https://www.instagram.com/chiheb_abiza_/"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a></p>
@@ -14,16 +14,19 @@
 <h2>Skills</h2>
 <ul>
   <h3>Programming Languages:</h3>
-       <li><img src="https://img.shields.io/badge/HTML5-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"></li> 
-       <li><img src="https://img.shields.io/badge/CSS3-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"></li>  
-       <li><img src="https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"></li>   
+  <li><img src="https://img.shields.io/badge/HTML5-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"></li> 
+  <li><img src="https://img.shields.io/badge/CSS3-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"></li>  
+  <li><img src="https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"></li>   
+  <li><img src="https://img.shields.io/badge/PHP-%23777BB4.svg?&style=for-the-badge&logo=php&logoColor=white" alt="PHP"></li>  
 </ul>
 <ul>
   <h3>Tools:</h3>
   <li><img src="https://img.shields.io/badge/VS%20Code-%23007ACC.svg?&style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code"></li>
   <li><img src="https://img.shields.io/badge/Git-%23F05032.svg?&style=for-the-badge&logo=git&logoColor=white" alt="Git"></li>
   <li><img src="https://img.shields.io/badge/GitHub-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></li>
-</ul>    
+  <li><img src="https://img.shields.io/badge/MySQL-%2300f.svg?&style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"></li>
+</ul>
+  
 
 
 <h2 id="contact">Contact</h2>
