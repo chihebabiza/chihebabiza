@@ -1,9 +1,7 @@
 <h1>Hi, I'm Chiheb! 👋</h1>
 
-<ul>
-  <li>I'm a Computer Science student and a content creator.</li>
-  <li>I share content on Instagram and YouTube about programming and tech.</li>
-</ul>
+<p>I'm a Computer Science student and a content creator.</p>
+<p>I share content on Instagram and YouTube about programming and tech.</p>
 
 <h2>Contact</h2>
 <p>Check out my content and follow me:</p>
