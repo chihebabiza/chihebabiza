@@ -5,7 +5,7 @@
 <h2>Contact</h2>
 <p>Check out my content and follow me:</p>
 <p>Email: <code>chihebabiza@gmail.com</code></p>
-<p>Website: <code>chihebabiza.me</code></p>
+<p>Website: <code>chihebabiza.vercel.app/</code></p>
 <p>
   <a href="https://www.instagram.com/chihebabiza/">
     <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
