@@ -29,7 +29,7 @@
 
 <p align="center">
   <img
-    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=chihebabiza&theme=github_dark&name=Chiheb"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=chihebabiza&theme=github_dark"
     width="100%"
   />
 </p>
