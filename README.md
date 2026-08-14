@@ -2,16 +2,7 @@
 
 <p>I'm a software engineer and content creator.</p>
 
-<p>Check out my content and follow me:</p>
-<p>
-  Email : 
-<a href="mailto:chihebabiza@gmail.com">chihebabiza@gmail.com</a><br/>
-  Website : 
-<a href="https://chihebabiza.vercel.app" target="_blank" rel="noopener noreferrer">
-  chihebabiza.vercel.app
-</a><br/>
-</p>
-  
+<p>Check out my content and follow me:</p> <p>Email: <code>chihebabiza@gmail.com</code></p> <p>Website: <code>chihebabiza.vercel.app</code></p>
 
 
 <p>
