@@ -5,7 +5,7 @@
 <p>Check out my content and follow me:</p>
 <p>
   Email : 
-<a href="mailto:chihebabiza@gmail.com">chihebabiza@gmail.com</a><br/><br/>
+<a href="mailto:chihebabiza@gmail.com">chihebabiza@gmail.com</a><br/>
   Website : 
 <a href="https://chihebabiza.vercel.app" target="_blank" rel="noopener noreferrer">
   chihebabiza.vercel.app
