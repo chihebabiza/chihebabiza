@@ -1,10 +1,19 @@
 <h1>Hi, I'm Chiheb! 👋</h1>
 
-<p>I'm a software engineer.</p>
+<p>I'm a software engineer and content creator</p>
 
 <p>Check out my content and follow me:</p>
-<p>Email: <code>chihebabiza@gmail.com</code></p>
-<p>Website: <code>chihebabiza.vercel.app/</code></p>
+<p>
+  Email : 
+<a href="mailto:chihebabiza@gmail.com">chihebabiza@gmail.com</a><br/>
+  Website : 
+<a href="https://chihebabiza.vercel.app" target="_blank" rel="noopener noreferrer">
+  chihebabiza.vercel.app
+</a>
+</p>
+  
+
+
 <p>
   <a href="https://www.instagram.com/chihebabiza/">
     <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
