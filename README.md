@@ -1,15 +1,15 @@
 <h1>Hi, I'm Chiheb! 👋</h1>
 
-<p>I'm a software engineer and content creator</p>
+<p>I'm a software engineer and content creator.</p>
 
 <p>Check out my content and follow me:</p>
 <p>
   Email : 
-<a href="mailto:chihebabiza@gmail.com">chihebabiza@gmail.com</a><br/>
+<a href="mailto:chihebabiza@gmail.com">chihebabiza@gmail.com</a><br/><br/>
   Website : 
 <a href="https://chihebabiza.vercel.app" target="_blank" rel="noopener noreferrer">
   chihebabiza.vercel.app
-</a>
+</a><br/>
 </p>
   
 
