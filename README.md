@@ -16,16 +16,6 @@
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
 </p>
-<p align="center">
-  <img
-    src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=chihebabiza&theme=github_dark"
-    width="49%"
-  />
-  <img
-    src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=chihebabiza&theme=github_dark"
-    width="49%"
-  />
-</p>
 
 <p align="center">
   <img
