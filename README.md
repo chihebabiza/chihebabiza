@@ -16,10 +16,3 @@
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
 </p>
-
-<p align="center">
-  <img
-    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=chihebabiza&theme=github_dark&name=chihebabiza"
-    width="100%"
-  />
-</p>
